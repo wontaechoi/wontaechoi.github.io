@@ -1,14 +1,9 @@
 ----
- 
 -layout: post
--
 -title: 첫 글
--
 -categories: extra
--
 -img: post-1.jpg
--
--tag: 일상
+-tags: [일상, 첫글]
 ----
 
 ### 첫 블로그 글 ###
