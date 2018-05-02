@@ -2,7 +2,7 @@
 layout: post
 title: 첫 글
 categories: extra
-img: assets/img/post-1.jpg
+img: post-1.jpg
 tags: [일상, 첫글]
 ---
 
